@@ -11,4 +11,11 @@ console.log("Person is Canadian ", isCanadian);
 console.log("null variable ", nullVar);
 console.log("undefined variable ", undefinedVar);*/
 
-const toDoArray = ["see northern lights!!", "read", "study"]
+const toDoArray = ["see northern lights!!", "read", "study"];
+
+const phone = {
+  brand: "apple",
+  model: "iPhone 12 mini",
+  battery: 90,
+  os: "iOS 17.6.1",
+};
